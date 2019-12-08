@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/sxt1"
+        android:title="Sap xep theo ten (a->z)"
+        android:orderInCategory="100"></item>
+    <item
+        android:id="@+id/sxt2"
+        android:title="Sap xep theo ten (z->a)"
+        android:orderInCategory="100"></item>
+    <item
+        android:id="@+id/sxho1"
+        android:title="Sap xep theo ho (a->z)"
+        android:orderInCategory="100"></item>
+    <item
+        android:id="@+id/sxho2"
+        android:title="Sap xep theo ho (z->a)"
+        android:orderInCategory="100"></item>
+
+</menu>
